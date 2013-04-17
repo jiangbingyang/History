@@ -5,7 +5,7 @@
  * @modify: 2011/07/19
  * 
  * @API:
- * 	1) History.state: current history entry state;
+ *  1) History.state: current history entry state;
  *  2) History.pushState(data, title, url);
  *  3) History.replaceState(data, title, url); TODO
  *  4) History.popstate(): onpopstate or onhashchange callback handler;
